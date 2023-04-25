@@ -1,0 +1,46 @@
+Html{
+    text-align: center;
+    display: table;
+    margin: 0 auto;
+}
+#introduction{
+    color: #0f0000;
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+}
+#Name{
+    font-family: 'Sigmar', cursive;
+    font-size: 1rem;
+    text-align: center;
+}
+.Infos{
+    color: #53928a;
+    font-family: 'Sigmar', cursive;
+    font-size: 2rem;
+}
+.EducWorkExpSkills{
+    font-family: 'Caveat', cursive;
+    font-size:25px  ;
+}
+#Others{
+    font-family: 'Caveat', cursive;
+    font-size:25px  ;
+}
+li[Font=True]{
+    font-family: 'Caveat', cursive;
+    font-size:20px;
+}
+#Copyrights{
+    color: rgb(6, 26, 145);
+}
+ul {
+    display: table;
+    margin: 0 auto;
+}
+table{
+    display: table;
+    margin:0 auto;
+}
+hr{
+    background-color:#FFEEB3;
+}
