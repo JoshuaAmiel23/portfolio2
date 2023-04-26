@@ -3,15 +3,12 @@ Html{
     display: table;
     margin: 0 auto;
 }
-#introduction{
-    color: #0f0000;
-    font-family: 'Caveat', cursive;
-    font-size: 25px;
+#ImgSize{
+    height: 280px;
 }
-#Name{
-    font-family: 'Sigmar', cursive;
-    font-size: 1rem;
-    text-align: center;
+#introduction{
+    font-family: 'Caveat', cursive;
+    font-size: 25px;   
 }
 .Infos{
     color: #53928a;
@@ -33,12 +30,11 @@ Html{
 #Copyrights{
     color: rgb(6, 26, 145);
 }
-ul {
+.align {
     display: table;
     margin: 0 auto;
 }
-table{
-    display: table;
+#ProfilePicture{
     margin:0 auto;
 }
 hr{
